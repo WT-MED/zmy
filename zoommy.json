@@ -4,13 +4,13 @@
 			"NetworkAds": "admob",
 			"AdMobId": "pub-3940256099942544",
 
-			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-			"InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+			"BannerAdmob": "ca-app-pub-6810938396743480/2532173695",
+			"InterstitialAdmob": "ca-app-pub-6810938396743480/4782932513",
+			"NativeAdmob": "ca-app-pub-6810938396743480/4778244849",
 
-			"BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
-			"InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
-			"NativeFacebook": "173186393601951_356298065290782",
+			"BannerFacebook": "1523374454529471_1526800170853566",
+			"InterstitialFacebook": "1523374454529471_1523391061194477",
+			"NativeFacebook": "1523374454529471_1523391807861069",
 			"ImageBanner": false,
 			"ImageBannerImg": "https://images-eu.ssl-images-amazon.com/images/G/31/img17/Mobile/Engagement/GIFS2018/SpinAndWin/Winners/winner_LP_2.jpg",
 			"ImageBannerURL": "https://www.google.com"
