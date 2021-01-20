@@ -1,0 +1,85 @@
+{
+	"GuideData": {
+		"AdsController": {
+			"NetworkAds": "admob",
+			"AdMobId": "ca-app-pub-9741199372731900~9357560204",
+
+			"BannerAdmob": "ca-app-pub-9741199372731900/4105233525",
+			"InterstitialAdmob": "ca-app-pub-9741199372731900/7661335159",
+			"NativeAdmob": "ca-app-pub-9741199372731900/4843600123",
+
+			"BannerFacebook": "1054273325077416_10542743450773",
+			"InterstitialFacebook": "1054273325077416_1054274788410603",
+			"NativeFacebook": "173186393601951_356298065290782",
+			"ImageBanner": false,
+			"ImageBannerImg": "https://linkkt/imh.jpg",
+			"ImageBannerURL": "https://www.linkk.com"
+
+		},
+
+		"items": [{
+				"title": "Stay Private",
+				"image": "https://1.bp.blogspot.com/-5sU6DrDUPEo/YAGOWL96AUI/AAAAAAAAAF8/13L030YVUD4PTqdGSfFkzFhNrgjY-iOOQCLcBGAsYHQ/s600.png",
+
+				"color": "#000000",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Signal conversations are always end-to-end encrypted, which means that they can only be read or heard by your intended recipients. Privacy isn’t an optional mode — it’s just the way that Signal works. Every message, every call, every time. You can confirm that the server is operating correctly and that you are communicating with the right person using safety numbers. The complete source code for the Signal clients and the Signal server is available on GitHub. This enables interested parties to examine the code for security and correctness.",
+				"isNative": false
+
+			},
+      {
+				"title": "Disappearing Messages",
+				"image": "https://1.bp.blogspot.com/-w_sDPFKSaOs/YAGOVeWX6ZI/AAAAAAAAAFw/kZqpn80Ls44w8EnlT2IX8WDqC4dCKb2iQCLcBGAsYHQ/s600.png",
+				"color": "#000000",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Use disappearing messages to keep your message history tidy. The message will disappear from your devices after the timer has elapsed. This is not for situations where your contact is your adversary — after all, if someone who receives a disappearing message really wants a record of it, they can always use another camera to take a photo of the screen before the message disappears.",
+				"isNative": false
+			},
+      	{
+				"title": "Say Anything",
+				"image": "https://1.bp.blogspot.com/-EQV6gNyF_LU/YAGOVYPiFiI/AAAAAAAAAF0/UwAxmMuCQOcUw3XKICaznkoOmZhf03nMACLcBGAsYHQ/s600.png",
+				"color": "#000000",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Share text, voice messages, photos, videos, GIFs and files for free. Signal uses your phone's data connection so you can avoid SMS and MMS fees.",
+				"isNative": false
+			},
+			{
+				"title": "Voice or Video Calls",
+				"image": "https://1.bp.blogspot.com/-asYgBclQn1M/YAGOV_5T4hI/AAAAAAAAAF4/314-ofNMJVUp3r3ygl4Grijg39Kht9DzACLcBGAsYHQ/s600.png",
+				"color": "#000000",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "Like all Signal messages, group voice and group video calls are private too. You will be prompted to grant the Camera and Microphone permissions the first time you make or receive a Signal call. ",
+				"isNative": false
+			},
+			{
+				"title": "Get Together with Groups",
+				"image": "https://1.bp.blogspot.com/-bq0iHN1TpqQ/YAGOVTjvY7I/AAAAAAAAAFs/lvGO36UkRnc5ZcUyg-Sls0wvJYraTGzcQCLcBGAsYHQ/s600.png",
+				"color": "#000000",
+				"text_size": "25",
+				"isLink": false,
+				"link_title": "",
+				"setLink": "",
+				"image_link": "",
+				"text": "This is a Signal group that is built on top of the new private group system technology. The Signal service has no record of your group memberships, group titles, group avatars, or group attributes. New Group features include. This is a Signal group that is not compatible with New Group features like admins and mentions. The Signal service has no record of your group memberships, group titles, group avatars, or group attributes.",
+				"isNative": false
+			}
+		]
+
+	}
+}
